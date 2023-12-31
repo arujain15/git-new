@@ -1,1 +1,3 @@
-# git-new
+This is the demo for git 
+<br />
+Let's go...
